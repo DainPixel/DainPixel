@@ -1,7 +1,7 @@
 # DainPixel  
 
-**Master's Student | Human-Computer Interaction (HCI) Researcher**  
-Exploring **cognitive science, user experience, and AI-driven interactions**.  
+*Master's Student | Human-Computer Interaction (HCI) Researcher*
+Exploring cognitive science, user experience, and AI-driven interactions.  
 Passionate about designing **intuitive, human-centered systems**.
 
 ## About Me  

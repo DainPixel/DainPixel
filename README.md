@@ -8,12 +8,15 @@
 🌐 [LinkedIn](https://linkedin.com/in/dainpixel)  
 
 ## Tools & Skills  
-💻 **Programming**  
-- **Proficient**: Python, HTML, CSS, JavaScript  
-- **Basic knowledge**: C, C#, Java
+💻 **Programming** *Proficient*: Python, HTML, CSS, JavaScript  *Basic knowledge*: C, C#, Java
   
-📐 **Workflow & Collaboration**: Git, GitHub, Notion, Visual Paradigm (UML)  
+📐 **Workflow & Collaboration** Git, GitHub, Notion, Visual Paradigm (UML)  
 
-🎨 **Design & Prototyping**: Adobe (Ps, Ai, Pr, XD), Figma, Blender, Unity  
+🎨 **Design & Prototyping** Adobe (Ps, Ai, Pr, XD), Figma, Blender, Unity  
 
-*"From pixels to people, designing interactions."*
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DainPixel/dainpixel.github.io/main/kirby.gif" alt="Running Kirby" width="900">
+  <img src="https://raw.githubusercontent.com/DainPixel/dainpixel.github.io/main/pixel.gif" alt="Pixel Animation" width="1000">
+</p>

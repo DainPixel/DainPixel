@@ -1,7 +1,7 @@
 # DainPixel  
 
 🎓 Master’s student at **Human Interface Systems Lab, Seoul National University**   
-🔍 Researching Human-AI Interaction, Cognitive Science, and Human Factors.
+🔍 Researching Human-AI Interaction and Cognitive Science.
 
 ## Contact  
 📧 dainpixel@snu.ac.kr | dainpixel@gmail.com  

@@ -3,9 +3,10 @@
 🎓 Master’s student at **Human Interface Systems Lab, Seoul National University**   
 🔍 Researching Human-AI Interaction and Cognitive Science.
 
-## Contact  
+## Connect
 📧 dainpixel@snu.ac.kr | dainpixel@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/dainpixel)  
+📖 [AX Insights (Velog)](https://velog.io/@dainpixel/posts)  
 
 ## Tools & Skills  
 💻 **Programming** *Proficient*: Python, HTML, CSS, JavaScript  *Basic knowledge*: C, C#, Java

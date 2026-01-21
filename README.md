@@ -6,7 +6,7 @@
 ## Connect
 📧 dainpixel@snu.ac.kr | dainpixel@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/dainpixel)  
-🎓 [Google Scholar](https://scholar.google.com/citations?user=_OzBQDEAAAAJ)
+🎓 [Google Scholar](https://scholar.google.com/citations?user=_OzBQDEAAAAJ)  
 📖 [AX Insights (Velog)](https://velog.io/@dainpixel/posts)  
 
 ## Tools & Skills  
